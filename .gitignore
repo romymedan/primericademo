@@ -1,0 +1,15 @@
+target
+
+.idea
+
+.iml
+
+.class
+
+.jar
+
+src/test/resources/gmailLogin.feature
+
+src/test/java/GmailLogin.java
+
+src/test/java/MyStepdefs.java
