@@ -2,11 +2,11 @@ target
 
 .idea
 
-.iml
+*.iml
 
-.class
+*.class
 
-.jar
+*.jar
 
 src/test/resources/gmailLogin.feature
 
